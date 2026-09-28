@@ -1,0 +1,7 @@
+yfinance
+pandas
+streamlit
+plotly
+openpyxl
+python-dotenv
+# sqlite3 is part of the Python standard library - no pip install needed
