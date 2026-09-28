@@ -91,15 +91,6 @@ investment-pipeline/
 ├── requirements.txt
 └── README.md
 ```
-
-## Screenshots
-
-> _Placeholder — add screenshots of the running dashboard here._
-
-| KPI Overview & Price Chart | Excel Export |
-|---|---|
-| ![Dashboard overview](docs/screenshots/dashboard-overview.png) | ![Excel export](docs/screenshots/excel-export.png) |
-
 ## Key Concepts
 
 A few design decisions worth highlighting (useful talking points for a technical
